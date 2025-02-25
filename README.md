@@ -1,3 +1,5 @@
+<img src"![Black Geometric Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/b45a4ed1-06e9-42f3-9a91-3db7c3e18552)
+">
 <h1 align="center">Hi 👋, I'm Yash Sukhadiya</h1>
 <h3 align="center">A passionate Web developer Engineer from India</h3>
 
