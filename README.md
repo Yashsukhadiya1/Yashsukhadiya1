@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yash Sukhadiya</h1>
+<h1 align="center">Hi 👋, My name is Yash Sukhadiya</h1>
 <h3 align="center">A passionate Web developer Engineer from India</h3>
 
 --- 
