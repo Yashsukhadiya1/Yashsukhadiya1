@@ -4,17 +4,16 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsukhadiya1&label=Profile%20views&color=0e75b6&style=flat" alt="yashsukhadiya1" /> </p>
+
 
 - 🌱 I’m currently learning **Mobile App development ios, Aiml, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yashsukhadiya1](https://github.com/Yashsukhadiya1)
 
-- 📫 How to reach me **23amtics0202gmail.com**
+- 📫 How to reach me **23amtics020@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yash-sukhadiya-5219552b2/](https://www.linkedin.com/in/yash-sukhadiya-5219552b2/)
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
