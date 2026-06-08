@@ -10,19 +10,21 @@
 - 💼 8+ months of internship experience across Flutter, React, and FastAPI
 - 🚀 Deployed **CA Diary** on Google Play Store with active maintenance
 - 👨‍💻 All of my projects are available at [github.com/Yashsukhadiya1](https://github.com/Yashsukhadiya1)
-- 📫 How to reach me: **23amtics020@gmail.com**
-- 📄 Know about my experiences: [linkedin.com/in/yash-sukhadiya](https://www.linkedin.com/in/yash-sukhadiya)
+- 🌐 Portfolio: [yash-sukhadiya-portfolio.vercel.app](https://yash-sukhadiya-portfolio.vercel.app/)
 - 🎓 B.Tech IT @ Asha M. Tarsadia Institute | CGPA: 9.0/10
+- 📫 23amtics020@gmail.com
+- 🔗 linkedin.com/in/yash-sukhadiya-5219552b2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash-sukhadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-sukhadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/yashsukhadiya_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashsukhadiya_11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-sukhadiya-5219552b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/Yashsukhadiya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://yash-sukhadiya-portfolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsukhadiya1&show_icons=true&locale=en&layout=compact&theme=dark" alt="yashsukhadiya1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsukhadiya1&layout=compact&theme=dark&hide_border=true" alt="yashsukhadiya1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsukhadiya1&show_icons=true&locale=en&theme=dark" alt="yashsukhadiya1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsukhadiya1&show_icons=true&theme=dark&hide_border=true" alt="yashsukhadiya1" /></p>
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=yashsukhadiya1&theme=dark" alt="yashsukhadiya1" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=yashsukhadiya1&theme=dark&hide_border=true" alt="yashsukhadiya1" /></p>
