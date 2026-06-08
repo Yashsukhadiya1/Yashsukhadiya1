@@ -23,8 +23,5 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsukhadiya1&layout=compact&theme=dark&hide_border=true" alt="yashsukhadiya1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsukhadiya1&show_icons=true&theme=dark&hide_border=true" alt="yashsukhadiya1" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=yashsukhadiya1&theme=dark&hide_border=true" alt="yashsukhadiya1" /></p>
