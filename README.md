@@ -13,7 +13,7 @@
 - 🌐 Portfolio: [yash-sukhadiya-portfolio.vercel.app](https://yash-sukhadiya-portfolio.vercel.app/)
 - 🎓 B.Tech IT @ Asha M. Tarsadia Institute | CGPA: 9.0/10
 - 📫 23amtics020@gmail.com
-- 🔗 linkedin.com/in/yash-sukhadiya-5219552b2
+- 🔗 Know about my experiences: [linkedin.com/in/yash-sukhadiya](https://www.linkedin.com/in/yash-sukhadiya)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
